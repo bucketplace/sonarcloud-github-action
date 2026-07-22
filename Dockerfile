@@ -1,4 +1,4 @@
-FROM public.ecr.aws/l3k7d6g6/sonarsource/sonar-scanner-cli:10.0
+FROM public.ecr.aws/l3k7d6g6/sonarsource/sonar-scanner-cli:12.0
 
 LABEL version="2.2.0" \
       repository="https://github.com/bucketplace/sonarcloud-github-action" \
